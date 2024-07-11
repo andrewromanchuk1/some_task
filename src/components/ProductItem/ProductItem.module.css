@@ -1,0 +1,36 @@
+.item_container * {
+  background-color: #fff;
+}
+
+.item_container {
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  width: 60%;
+  margin: auto;
+  padding: 20px 50px;
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+.item_property_container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 10px 0;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.item_buttons_container {
+  text-align: end;
+  margin: 15px 0 0 0;
+}
+
+.item_buttons * {
+  background-color: darkorange;
+  padding: 7px 15px;
+  border-radius: 5px;
+}
+.item_buttons {
+  border: none;
+  cursor: pointer;
+}

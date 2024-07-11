@@ -1,0 +1,84 @@
+{
+  "PRODUCTS": [
+    {
+      "id": "1",
+      "name": "A Product",
+      "count": 14,
+      "size": {
+        "height": 200,
+        "width": 200
+      },
+      "weight": "300g"
+    },
+    {
+      "id": "2",
+      "name": "C Product",
+      "count": 3,
+      "size": {
+        "width": 150,
+        "height": 250
+      },
+      "weight": "100g"
+    },
+    {
+      "id": "08514b50-a23d-49b7-8bba-26667e13c3e0",
+      "name": "X product",
+      "count": 12,
+      "size": {
+        "height": 11,
+        "width": 22
+      },
+      "weight": "331"
+    },
+    {
+      "id": "a61b4f82-a1d8-4480-ba42-3efa4e57fc77",
+      "name": "Product Name",
+      "count": 123,
+      "size": {
+        "height": 1,
+        "width": 2
+      },
+      "weight": 3
+    },
+    {
+      "id": "60bbea20-1c19-4b34-98f3-66cb8d37f41a",
+      "name": "T product",
+      "count": 123,
+      "size": {
+        "height": 321,
+        "width": 231
+      },
+      "weight": "312"
+    },
+    {
+      "id": "6a58e2b1-a600-473f-82cb-bd558e11703e",
+      "name": "B product",
+      "count": 11,
+      "size": {
+        "height": 111,
+        "width": 40
+      },
+      "weight": "22"
+    }
+  ],
+  "COMMENTS": [
+    {
+      "id": "79df8837-fb42-4cdb-976b-2a0791597c42",
+      "productId": "2",
+      "description": "new comment text",
+      "date": "13:19 11.07.2024"
+    },
+    {
+      "id": "359e67c9-c703-4112-8d50-6934bb9e6d33",
+      "productId": "08514b50-a23d-49b7-8bba-26667e13c3e0",
+      "description": "new comment",
+      "date": "13:21 11.07.2024"
+    },
+    {
+      "id": "ea095040-c2c0-4c6b-9a82-167668dc1499",
+      "productId": "1",
+      "description": "Woah!",
+      "date": "14:51 11.07.2024"
+    }
+  ]
+}
