@@ -21,16 +21,6 @@
       "weight": "100g"
     },
     {
-      "id": "08514b50-a23d-49b7-8bba-26667e13c3e0",
-      "name": "X product",
-      "count": 12,
-      "size": {
-        "height": 11,
-        "width": 22
-      },
-      "weight": "331"
-    },
-    {
       "id": "a61b4f82-a1d8-4480-ba42-3efa4e57fc77",
       "name": "Product Name",
       "count": 123,
@@ -79,6 +69,12 @@
       "productId": "1",
       "description": "Woah!",
       "date": "14:51 11.07.2024"
+    },
+    {
+      "id": "55eec98b-9438-4192-aee2-90c3122aaa42",
+      "productId": "a61b4f82-a1d8-4480-ba42-3efa4e57fc77",
+      "description": "bla bla",
+      "date": "12:27 19.07.2024"
     }
   ]
 }
